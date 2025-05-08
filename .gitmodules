@@ -4,3 +4,6 @@
 [submodule "Process-Automation"]
 	path = Process-Automation
 	url = https://github.com/NareshKoirala/Process-Automation.git
+[submodule "nKoirala-Lib"]
+	path = nKoirala-Lib
+	url = https://github.com/NareshKoirala/nKoirala-Lib.git
