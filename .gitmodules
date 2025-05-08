@@ -1,3 +1,6 @@
 [submodule "nkoirala-Lib"]
 	path = nkoirala-Lib
 	url = 'https://github.com/NareshKoirala/nKoirala-Lib.git'
+[submodule "Programming"]
+	path = Programming
+	url = 'https://github.com/NareshKoirala/Programming.git'
